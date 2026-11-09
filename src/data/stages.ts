@@ -11,7 +11,7 @@ export const stages: Stage[] = [
   name: 'Đảng ra đời',
   period: '1930 – 1935',
   description: 'Đảng Cộng sản Việt Nam ra đời, lãnh đạo cao trào cách mạng 1930–1931 và khôi phục tổ chức sau khủng bố trắng.',
-  target: 1500,
+  target: 1400,
   enemy: {
     name: 'Ách thống trị thực dân',
     description: 'Bộ máy cai trị và chính sách khủng bố trắng của thực dân Pháp.',
@@ -38,7 +38,7 @@ export const stages: Stage[] = [
   name: 'Vận động dân chủ',
   period: '1936 – 1939',
   description: 'Đảng lãnh đạo cuộc vận động đòi tự do, dân sinh, dân chủ, cơm áo, hòa bình.',
-  target: 2600,
+  target: 3200,
   enemy: {
     name: 'Phản động thuộc địa',
     description: 'Thế lực phản động thuộc địa và nguy cơ phát xít, chiến tranh.',
@@ -65,7 +65,7 @@ export const stages: Stage[] = [
   name: 'Giải phóng dân tộc',
   period: '1939 – 1945',
   description: 'Đảng chuyển hướng chỉ đạo chiến lược, chuẩn bị lực lượng và lãnh đạo Tổng khởi nghĩa tháng Tám.',
-  target: 4400,
+  target: 4900,
   enemy: {
     name: 'Ách thống trị Pháp – Nhật',
     description: 'Ách thống trị của phát xít Nhật và thực dân Pháp đè nặng lên nhân dân.',
@@ -119,7 +119,7 @@ export const stages: Stage[] = [
   name: 'Kháng chiến chống Pháp',
   period: '1946 – 1954',
   description: 'Cuộc kháng chiến toàn dân, toàn diện, trường kỳ, kết thúc bằng chiến thắng Điện Biên Phủ.',
-  target: 10000,
+  target: 8700,
   enemy: {
     name: 'Thực dân Pháp xâm lược',
     description: 'Quân viễn chinh Pháp tái chiếm Đông Dương.',
@@ -147,7 +147,7 @@ export const stages: Stage[] = [
   name: 'Xây dựng và đấu tranh',
   period: '1954 – 1965',
   description: 'Miền Bắc xây dựng chủ nghĩa xã hội, miền Nam chuyển từ thế giữ gìn lực lượng sang thế tiến công.',
-  target: 15000,
+  target: 12000,
   enemy: {
     name: 'Chiến lược "Chiến tranh đặc biệt"',
     description: 'Chiến lược chiến tranh của Mỹ và chính quyền Sài Gòn ở miền Nam.',
@@ -174,7 +174,7 @@ export const stages: Stage[] = [
   name: 'Thống nhất đất nước',
   period: '1965 – 1975',
   description: 'Kháng chiến chống Mỹ, cứu nước đi đến thắng lợi hoàn toàn mùa Xuân 1975.',
-  target: 19000,
+  target: 16000,
   enemy: {
     name: 'Chiến tranh xâm lược của Mỹ',
     description: '"Chiến tranh cục bộ", chiến tranh phá hoại miền Bắc và "Việt Nam hóa chiến tranh".',
@@ -201,7 +201,7 @@ export const stages: Stage[] = [
   name: 'Khắc phục hậu quả',
   period: '1975 – 1986',
   description: 'Cả nước đi lên chủ nghĩa xã hội trong bối cảnh hậu quả chiến tranh nặng nề và khủng hoảng kinh tế – xã hội.',
-  target: 24000,
+  target: 20000,
   enemy: {
     name: 'Hậu quả chiến tranh & khủng hoảng',
     description: 'Hậu quả chiến tranh, cơ chế tập trung quan liêu bao cấp và khủng hoảng kinh tế – xã hội.',
@@ -228,7 +228,7 @@ export const stages: Stage[] = [
   name: 'Đổi mới',
   period: '1986 – 2000',
   description: 'Thực hiện đường lối Đổi mới, đưa đất nước ra khỏi khủng hoảng kinh tế – xã hội.',
-  target: 28000,
+  target: 23000,
   enemy: {
     name: 'Khủng hoảng & cấm vận',
     description: 'Khủng hoảng kinh tế – xã hội, lạm phát cao và tình trạng bị bao vây, cấm vận.',
@@ -255,7 +255,7 @@ export const stages: Stage[] = [
   name: 'Hội nhập và phát triển',
   period: '2001 – nay',
   description: 'Đẩy mạnh công nghiệp hóa, hiện đại hóa và hội nhập quốc tế sâu rộng.',
-  target: 31000,
+  target: 27000,
   enemy: {
     name: 'Thách thức phát triển',
     description: 'Nguy cơ tụt hậu, cạnh tranh hội nhập và yêu cầu phát triển bền vững.',
